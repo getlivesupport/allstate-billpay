@@ -4,7 +4,7 @@ Welcome to the independent **Allstate Insurance Bill Pay Resource Hub** maintain
 
 ## 🔗 Live Production Deployment
 The full responsive, 3D neumorphic consumer platform is live and verified:
-👉 **[Access the Allstate Bill Pay Master Guide](https://github.io)**
+👉 **[Access the Allstate Bill Pay Master Guide](https://getlivesupport.github.io/allstate-billpay/)**
 
 ---
 
